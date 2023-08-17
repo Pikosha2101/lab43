@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Футбольчик</string>
+    <string name="soccerskills">Футбольные навыки</string>
+    <string name="login">логин</string>
+    <string name="email">эмайл</string>
+    <string name="pass">пароль</string>
+    <string name="RemMe">Запомнить меня</string>
+    <string name="forgpass">Забыли пароль?</string>
+    <string name="signin">Войти</string>
+    <string name="acc_str">Нет аккаунта?</string>
+    <string name="signup">Создать аккаунт</string>
+    <string name="backtxt">Назад</string>
+    <string name="createtxt">Создать</string>
+</resources>

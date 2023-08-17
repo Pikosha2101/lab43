@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Футбольчик</string>
+    <string name="soccerskills">SoccerSkills</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="pass">password</string>
+    <string name="RemMe">Remember me</string>
+    <string name="forgpass">Forgot password?</string>
+    <string name="signin">SignIn</string>
+    <string name="acc_str">Dont have an account?</string>
+    <string name="signup">SIGNUP NOW</string>
+    <string name="backtxt">Back</string>
+    <string name="createtxt">Create</string>
+</resources>
